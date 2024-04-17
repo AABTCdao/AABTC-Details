@@ -4,9 +4,10 @@
 
 # AABTC Telegram
 
-[@AABTCDAO](https://t.me/AABTCDAO)
+https://t.me/AABTCDAO
 
 # AABTC Twitter
 
-[@AITM66](https://x.com/ianmcastro?s=21)
+https://x.com/ianmcastro?s=21
+
 
